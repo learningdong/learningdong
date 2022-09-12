@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m currently learning about open source  using GitHub.
+Nice to meet you!
 
 <!--
 **learningdong/learningdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
